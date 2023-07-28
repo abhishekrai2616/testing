@@ -1,1 +1,7 @@
 hey how the you are
+<<<<<<< Updated upstream
+hey nothing has apperaring here why?
+=======
+
+now just want to see some magic
+>>>>>>> Stashed changes
